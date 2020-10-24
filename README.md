@@ -1,6 +1,6 @@
 ### Hi there 👋
-📫 How to reach me: www.muneebmukhthar.in
-⚡ Fun fact: I love Rubiks cube
+www.muneebmukhthar.in
+
 <!--
 **icecreamsandwich/icecreamsandwich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
